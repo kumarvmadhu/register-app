@@ -35,6 +35,6 @@
    <br>
    <h1> Happy Learning. See You Again. </h1>
    <br>
-   <h1>Trigger file</h1>
+   <h1>Trigger </h1>
    
 </form>
